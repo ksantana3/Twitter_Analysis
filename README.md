@@ -1,4 +1,4 @@
-#Twitter We Rate Dogs Data Analysis
+# Twitter We Rate Dogs Data Analysis
 
 In this analysis, we analyzed WeRateDogs tweets over the time period 11/15/2015 and 8/1/2017. The motivation for this analysis was to answer the following three questions. 
 
@@ -6,7 +6,7 @@ What breed of dogs most frequently appear on WeRateDogs Twitter?
 What breed of dogs get the most likes per tweet? 
 Does high rating correlate to high likes?
 
-##Datasets
+## Datasets
 
 This analysis used three datasets. 
 
